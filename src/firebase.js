@@ -9,7 +9,8 @@ const firebaseConfig = {
      storageBucket: "auth-form-e79ed.appspot.com",
      messagingSenderId: "654991217619",
      appId: "1:654991217619:web:6a5052376809e9c7285526",
-     measurementId: "G-14QFYTGDBE"
+     measurementId: "G-14QFYTGDBE",
+      databaseURL:"https://auth-form-e79ed-default-rtdb.firebaseio.com"
 };
 
 // Initialize Firebase
